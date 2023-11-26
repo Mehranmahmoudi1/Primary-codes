@@ -9,9 +9,3 @@ if x/2==0:
       print("zog")
       else:
 print ("fard")
-____________________
-x = 5
-y = "John"
-print(type(x))
-print(type(y))
-____________________
